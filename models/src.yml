@@ -1,0 +1,7 @@
+sources:
+  - name: test_data
+    database: dora_playground
+    schema: public
+    tables:
+      - name: exam
+        identifier: sample_sales_data
